@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to my blog
 
-You can use the [editor on GitHub](https://github.com/AlexanderParker/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Since the opposite would be pointless and boring, I will try to reserve this space for meaningful thoughts about interesting things, though I make no promises.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things I like
 
-### Markdown
+ - Computer programming
+ - Computer games
+ - Computer chair
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other things I like (in no particular order)
 
-```markdown
-Syntax highlighted code block
+ - The wife & kids
+ - Funky beats _(beats, funky beats, rock the funky beats?)_
+ - Slow, meandering hikes through lush, unkempt native wilderness
+ - Petrichor
 
-# Header 1
-## Header 2
-### Header 3
+### Things I don't like
 
-- Bulleted
-- List
+ - Lack of attention to detail
+ - Pedantry
+ - No more wine
+ - Probably other things too
 
-1. Numbered
-2. List
+### Why blog?
 
-**Bold** and _Italic_ and `Code` text
+Sometimes I find myself obsessing over a topic or subject more than usual. I can spend hours, days, or weeks turning it over in my head, researching, and figuring out how it fits with everything I already knew (or thought I knew).
 
-[Link](url) and ![Image](src)
-```
+The constant learning and discovery can be quite entertaining and sometimes even confronting. But the topics are usually pretty niche, and few people are interested. Afterwards is always a bit of an anticlimax scuttling back into my introvert shell with no one to celebrate with.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexanderParker/blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+So I guess I find the act of writing about whatever random crap I'm thinking about to be one way to close the loop, or maybe even leave a foot in the door to discovering more about something, like Hansel and Gretel leaving breadcrumbs to find their way back later.
